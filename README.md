@@ -1,3 +1,7 @@
+The answers to the question in this README have been submitted via Canvas.
+
+Please note that I needed to change the version of junit.jupiter.version to 5.1.0 and junit.platform.version to 1.1.0 to be able to run (mvn test) in the terminal.
+
 Tasks to answer in your own README.md that you submit on Canvas:
 
 1.  See logger.log, why is it different from the log to console?
